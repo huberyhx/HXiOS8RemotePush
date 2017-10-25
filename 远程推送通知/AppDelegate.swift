@@ -49,9 +49,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         /**
          App未存活-didReceiveRemoteNotification:fetchCompletionHandler有则执行，无则-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions，其中lanchOptions中UIApplicationLaunchOptionsRemoteNotificationKey
-
+*/
     }
-    
+ 
 
 }
 
